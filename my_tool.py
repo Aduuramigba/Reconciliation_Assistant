@@ -4,6 +4,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from dotenv import load_dotenv
 
+
 load_dotenv(override=True)
 
 embeddings = OpenAIEmbeddings()
