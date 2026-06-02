@@ -197,9 +197,6 @@ Planned or possible next steps:
 
 **Reconciliation Assistant** is an enterprise-focused AI project that applies RAG, vector search, and voice AI to a real support workflow. It demonstrates practical experience building LLM-powered systems that are grounded in business knowledge, modular in design, and relevant to enterprise operations.
 
-## Note
-
-This repo currently includes a `.env` file in version control. For production-quality hygiene, secrets should be removed from the repository, rotated, and ignored via `.gitignore`.
 
 ---
 
